@@ -1,0 +1,5 @@
+set_property SRC_FILE_INFO {cfile:E:/MyBackups/Git/FPGA_Programs/DIGILENT_BASYS3/MySWLED/MySWLED.srcs/constrs_1/new/MySWLED_Constrain.xdc rfile:../../../MySWLED.srcs/constrs_1/new/MySWLED_Constrain.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:4 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN V17 [get_ports SW]
+set_property src_info {type:XDC file:1 line:5 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN L1 [get_ports LED]
